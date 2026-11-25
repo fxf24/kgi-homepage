@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+node_modules/
+
+# 원본 자료 (직원 연락처·등록번호 포함) — 저장소에 올리지 않음
+*.ppt
+*.pptx
